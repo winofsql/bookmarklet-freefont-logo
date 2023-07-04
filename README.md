@@ -5,3 +5,6 @@ javascript:var d=document,w=window,enc=encodeURIComponent,e=w.getSelection,k=d.g
 ```
 
 ![image](https://github.com/winofsql/bookmarklet-freefont-logo/assets/1501327/63013186-1f33-42ec-bf0d-d5702de91fa2)
+
+
+### unicode 部分は [ここから](https://winofsql.jp/php/cnvtext/frame.htm) unicode ボタンで作成する
